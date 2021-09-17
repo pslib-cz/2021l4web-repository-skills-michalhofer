@@ -9,14 +9,4 @@ Obsahuje zatím:
 16.9. 21 | Vytvořeno
 17.9. 21 | Přidáno info
 
-můj oblíbený kód ``<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahoj</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Ahojki</h1>
-</body>
-</html>``
+můj oblíbený kód ``<div></div>``
