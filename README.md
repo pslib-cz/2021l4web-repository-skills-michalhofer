@@ -9,7 +9,8 @@ Obsahuje zatím:
 16.9. 21 | Vytvořeno
 17.9. 21 | Přidáno info
 
-můj oblíbený kód ``<head>
+můj oblíbený kód ``<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ahoj</title>
